@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetWorkTestPrepare.iml" filepath="$PROJECT_DIR$/.idea/NetWorkTestPrepare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_1/prepare_1.iml" filepath="$PROJECT_DIR$/prepare_1/prepare_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_10/prepare_10.iml" filepath="$PROJECT_DIR$/prepare_10/prepare_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_2/prepare_2.iml" filepath="$PROJECT_DIR$/prepare_2/prepare_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_3/prepare_3.iml" filepath="$PROJECT_DIR$/prepare_3/prepare_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_4/prepare_4.iml" filepath="$PROJECT_DIR$/prepare_4/prepare_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_5/prepare_5.iml" filepath="$PROJECT_DIR$/prepare_5/prepare_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_6/prepare_6.iml" filepath="$PROJECT_DIR$/prepare_6/prepare_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_7/prepare_7.iml" filepath="$PROJECT_DIR$/prepare_7/prepare_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_8/prepare_8.iml" filepath="$PROJECT_DIR$/prepare_8/prepare_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepare_9/prepare_9.iml" filepath="$PROJECT_DIR$/prepare_9/prepare_9.iml" />
+    </modules>
+  </component>
+</project>
